@@ -1,0 +1,6 @@
+prijs = float(5.99)
+aantal = float(prijs * 15)
+BTW = float(aantal * 1.21)
+print(prijs)
+print(aantal)
+print(BTW)
