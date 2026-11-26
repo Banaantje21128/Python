@@ -1,0 +1,1 @@
+print(print(10 / 3)) #Je deelt 10 door 3 en je krijgt none terug omdat er in 1 niks staat dat hij kan laten zien.
